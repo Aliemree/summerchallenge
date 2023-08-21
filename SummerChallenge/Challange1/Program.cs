@@ -1,26 +1,26 @@
 ﻿using System;
 
-namespace SummerChallange
+//namespace SummerChallange
     
-{ class KaraKök
-    {
-        static void Main(string[] args)
-        {
-            Console.Write("Kullanıcı Sayı: ");
-            double userInput = Convert.ToDouble(Console.ReadLine());
+//{ class KaraKök
+//    {
+//        static void Main(string[] args)
+//        {
+//            Console.Write("Kullanıcı Sayı: ");
+//            double userInput = Convert.ToDouble(Console.ReadLine());
 
-            double squareRoot = Math.Sqrt(userInput);
+//            double squareRoot = Math.Sqrt(userInput);
 
-            if (Math.Abs(Math.Floor(squareRoot + 0.5) - squareRoot) < double.Epsilon)
-            {
-                Console.WriteLine($"Cevap: {squareRoot}");
-            }
-            else
-            {
-                Console.WriteLine("Cevap: Karekökten tam olarak çıkmıyor.");
-            }
-        }
-    }
+//            if (Math.Abs(Math.Floor(squareRoot + 0.5) - squareRoot) < double.Epsilon)
+//            {
+//                Console.WriteLine($"Cevap: {squareRoot}");
+//            }
+//            else
+//            {
+//                Console.WriteLine("Cevap: Karekökten tam olarak çıkmıyor.");
+//            }
+//        }
+//    }
 
 
 
@@ -80,4 +80,4 @@ namespace SummerChallange
     //        }
     //    }
     //}
-}
+//}
