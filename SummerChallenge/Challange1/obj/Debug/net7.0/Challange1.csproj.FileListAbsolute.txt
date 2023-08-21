@@ -13,3 +13,17 @@ C:\Users\Ali\Desktop\summerchallenge\SummerChallenge\Challange1\obj\Debug\net7.0
 C:\Users\Ali\Desktop\summerchallenge\SummerChallenge\Challange1\obj\Debug\net7.0\Challange1.pdb
 C:\Users\Ali\Desktop\summerchallenge\SummerChallenge\Challange1\obj\Debug\net7.0\Challange1.genruntimeconfig.cache
 C:\Users\Ali\Desktop\summerchallenge\SummerChallenge\Challange1\obj\Debug\net7.0\ref\Challange1.dll
+C:\Users\aliem\Source\Repos\Aliemree\summerchallenge\SummerChallenge\Challange1\obj\Debug\net7.0\Challange1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aliem\Source\Repos\Aliemree\summerchallenge\SummerChallenge\Challange1\obj\Debug\net7.0\Challange1.AssemblyInfoInputs.cache
+C:\Users\aliem\Source\Repos\Aliemree\summerchallenge\SummerChallenge\Challange1\obj\Debug\net7.0\Challange1.AssemblyInfo.cs
+C:\Users\aliem\Source\Repos\Aliemree\summerchallenge\SummerChallenge\Challange1\obj\Debug\net7.0\Challange1.csproj.CoreCompileInputs.cache
+C:\Users\aliem\Source\Repos\Aliemree\summerchallenge\SummerChallenge\Challange1\obj\Debug\net7.0\Challange1.dll
+C:\Users\aliem\Source\Repos\Aliemree\summerchallenge\SummerChallenge\Challange1\obj\Debug\net7.0\refint\Challange1.dll
+C:\Users\aliem\Source\Repos\Aliemree\summerchallenge\SummerChallenge\Challange1\obj\Debug\net7.0\Challange1.pdb
+C:\Users\aliem\Source\Repos\Aliemree\summerchallenge\SummerChallenge\Challange1\bin\Debug\net7.0\Challange1.exe
+C:\Users\aliem\Source\Repos\Aliemree\summerchallenge\SummerChallenge\Challange1\bin\Debug\net7.0\Challange1.deps.json
+C:\Users\aliem\Source\Repos\Aliemree\summerchallenge\SummerChallenge\Challange1\bin\Debug\net7.0\Challange1.runtimeconfig.json
+C:\Users\aliem\Source\Repos\Aliemree\summerchallenge\SummerChallenge\Challange1\bin\Debug\net7.0\Challange1.dll
+C:\Users\aliem\Source\Repos\Aliemree\summerchallenge\SummerChallenge\Challange1\bin\Debug\net7.0\Challange1.pdb
+C:\Users\aliem\Source\Repos\Aliemree\summerchallenge\SummerChallenge\Challange1\obj\Debug\net7.0\Challange1.genruntimeconfig.cache
+C:\Users\aliem\Source\Repos\Aliemree\summerchallenge\SummerChallenge\Challange1\obj\Debug\net7.0\ref\Challange1.dll
