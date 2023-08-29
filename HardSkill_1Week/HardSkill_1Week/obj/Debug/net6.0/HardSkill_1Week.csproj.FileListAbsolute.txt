@@ -1,0 +1,14 @@
+C:\Users\aliem\Desktop\summerchallenge\HardSkill_1Week\HardSkill_1Week\bin\Debug\net6.0\HardSkill_1Week.exe
+C:\Users\aliem\Desktop\summerchallenge\HardSkill_1Week\HardSkill_1Week\bin\Debug\net6.0\HardSkill_1Week.deps.json
+C:\Users\aliem\Desktop\summerchallenge\HardSkill_1Week\HardSkill_1Week\bin\Debug\net6.0\HardSkill_1Week.runtimeconfig.json
+C:\Users\aliem\Desktop\summerchallenge\HardSkill_1Week\HardSkill_1Week\bin\Debug\net6.0\HardSkill_1Week.dll
+C:\Users\aliem\Desktop\summerchallenge\HardSkill_1Week\HardSkill_1Week\bin\Debug\net6.0\HardSkill_1Week.pdb
+C:\Users\aliem\Desktop\summerchallenge\HardSkill_1Week\HardSkill_1Week\obj\Debug\net6.0\HardSkill_1Week.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aliem\Desktop\summerchallenge\HardSkill_1Week\HardSkill_1Week\obj\Debug\net6.0\HardSkill_1Week.AssemblyInfoInputs.cache
+C:\Users\aliem\Desktop\summerchallenge\HardSkill_1Week\HardSkill_1Week\obj\Debug\net6.0\HardSkill_1Week.AssemblyInfo.cs
+C:\Users\aliem\Desktop\summerchallenge\HardSkill_1Week\HardSkill_1Week\obj\Debug\net6.0\HardSkill_1Week.csproj.CoreCompileInputs.cache
+C:\Users\aliem\Desktop\summerchallenge\HardSkill_1Week\HardSkill_1Week\obj\Debug\net6.0\HardSkill_1Week.dll
+C:\Users\aliem\Desktop\summerchallenge\HardSkill_1Week\HardSkill_1Week\obj\Debug\net6.0\refint\HardSkill_1Week.dll
+C:\Users\aliem\Desktop\summerchallenge\HardSkill_1Week\HardSkill_1Week\obj\Debug\net6.0\HardSkill_1Week.pdb
+C:\Users\aliem\Desktop\summerchallenge\HardSkill_1Week\HardSkill_1Week\obj\Debug\net6.0\HardSkill_1Week.genruntimeconfig.cache
+C:\Users\aliem\Desktop\summerchallenge\HardSkill_1Week\HardSkill_1Week\obj\Debug\net6.0\ref\HardSkill_1Week.dll
